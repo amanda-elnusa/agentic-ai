@@ -1,0 +1,6 @@
+asyncio
+requests
+agent-framework
+azure-identity
+dotenv
+aiohttp
